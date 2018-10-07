@@ -1,0 +1,104 @@
+body{
+  background-color: #F8F8FF;
+}
+.contain{
+  border: 1px solid black;
+  position: relative;
+  height: 1000px;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+}
+#top{
+  border: 1px solid gray;
+  background-color: #000080;
+  height: 85px;
+  width: 1333px;
+  margin: 0px 0px 0px 0px;
+}
+#banner{
+  font-size: 36px;
+  margin: 0px 0px 0px 5px;
+}
+#pesq{
+  margin: -80px 0px 0px 950px;
+  height: 15px;
+  position: absolute;
+  float: left;
+}
+#login{
+  margin: -85px 0px 0px 1150px;
+  position: absolute;
+  float: left;
+}
+#menu{
+  border: 1px solid gray;
+  left: 0px;
+  width: 107px;
+  height: 492px;
+  position: absolute;
+  float: left;
+}
+td{
+  border: 1px solid gray;
+  height: 40px;
+  padding: 5px 0px 0px 5px;
+}
+#indice{
+  margin: 0px 0px 0px 110px;
+  float: left;
+}
+
+#carrinho{
+  border: 2px solid gray;
+  border-radius: 10px;
+  float: left;
+  height: 200px;
+  width: 1200px;
+  font-size: 40px;
+  padding: 40px 0px 40px 50px;
+  text-align: center;
+  position: absolute;
+  margin: 75px 0px 0px 40px;
+  color: red;
+}
+.item{
+  border: 2px solid gray;
+  width: auto;
+  height: 395px;
+  position: absolute;
+  display: inline-block;
+  margin: 40px 0px 0px 0px;
+  font-size: 20px;
+  padding: 15px 10px 20px 5px;
+}
+#sacola{
+  float: left;
+}
+#descricao{
+  margin: 0px 0px 0px 40px;
+  float: left;
+}
+#cupom{
+  border: 2px solid  gray;
+  display: inline-block;
+  margin: 40px 0px 0px 530px;
+  width: 500px;
+  height: 395px;
+  padding: 15px 0px 20px 20px;
+}
+#bot{
+  border: 2px solid gray;
+  height: 315px;
+  width: 1311px;
+  display: inline-block;
+  background-color: #000080;
+  font-size: 20px;
+  position: absolute;
+  margin: 590px 0px 0px -1327px;
+  font-size: 20px;
+  padding: 5px 0px 0px 20px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
